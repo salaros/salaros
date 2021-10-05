@@ -2,8 +2,6 @@
 
 Entrepreneur, Solution Architect, full-stack Software Developer with 13+ years of experience & some great problem solving skills. Open-source & Linux fan.
 
-Here are some ideas to get you started:
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
