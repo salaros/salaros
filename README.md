@@ -6,9 +6,19 @@ Strong critical thinking, analytical reasoning and great problem-solving skills,
 
 Open-source & Linux fan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on for my startups
+- 🌱 I’m currently Machine Learning, Kafka
+- 👯 I’m looking to collaborate on WakaTime addins
+- 🤔 I’m looking for help with maintaining my open-source projects
 - 💬 Ask me about C#
 - 📫 How to reach me: salaros@salaros.com
+
+## 🗂️ Featured projects
+
+<a href="https://github.com/salaros/vtwsclib-php">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salaros&repo=vtwsclib-php&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/salaros/config-parser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salaros&repo=config-parser  &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
