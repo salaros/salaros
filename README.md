@@ -1,10 +1,8 @@
 ### Hi, I'm Salaros 👋
 
-Entrepreneur, Solution Architect, full-stack Software Developer with 13+ years of experience.
-
-Strong critical thinking, analytical reasoning and great problem-solving skills, that's what I'm about.
-
-Open-source & Linux fan.
+Full-stack Software Developer, Entrepreneur, Solution architect. Working in IT since 2008.
+I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, learn new technologies, languages, frameworks.
+I'm a problem-solver, critical thinker, passionate about open-source and knowledge sharing.
 
 - 🔭 I’m currently working on for my startups
 - 🌱 I’m currently Machine Learning, Kafka
