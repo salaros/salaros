@@ -8,7 +8,7 @@ I'm a problem-solver, critical thinker, passionate about open-source and knowled
 - 🌱 I’m currently Machine Learning, Kafka
 - 👯 I’m looking to collaborate on WakaTime addins
 - 🤔 I’m looking for help with maintaining my open-source projects
-- 💬 Ask me about C#
+- 💬 Ask me about C#, Azure, Docker, product life-time management
 - 📫 How to reach me: salaros@salaros.com
 
 ## 📝 Blogs & Pages
