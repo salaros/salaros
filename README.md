@@ -13,8 +13,8 @@ I'm a problem-solver, critical thinker, passionate about open-source and knowled
 
 ## 📝 Blogs & Pages
 
-- [WIP] Code & Notes: https://www.salaros.com/
-- me in LinkedIn: https://www.linkedin.com/in/salaros/
+- [🚧 WIP] [My Blog: code & notes](https://www.salaros.com/)
+- [my LinkedIn](https://www.linkedin.com/in/salaros/)
 
 ## 🔧 Technologies & Tools
 
