@@ -1,8 +1,9 @@
 ### Hi, I'm Salaros 👋
 
-Full-stack Software Developer, Entrepreneur, Solution architect. Working in IT since 2008.
-I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, learn new technologies, languages, frameworks.
-I'm a problem-solver, critical thinker, passionate about open-source and knowledge sharing.
+Full-stack Software Developer, DevOps, Solution Architect. Working in IT since 2008.
+I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, learn new languages, frameworks and technologies. 
+I'm a great problem-solver and critical thinker. 
+My greatest passion is open-source, so I strongly believe in knowledge sharing within communities and teams.
 
 - 🔭 I’m currently working on for my startups
 - 🌱 I’m currently studying Machine Learning, advanced Kafka
