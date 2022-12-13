@@ -32,16 +32,3 @@ My greatest passion is open-source, so I strongly believe in knowledge sharing w
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=f29111)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-
-## 🗂️ Featured projects
-
-<a href="https://github.com/salaros/config-parser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salaros&repo=config-parser&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="config-parser" />
-</a>
-
-<a href="https://github.com/salaros/vtwsclib-php">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salaros&repo=vtwsclib-php&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="vtwsclib-php" />
-</a>
-
-<a href="https://github.com/salaros/is-biz-mail-php">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salaros&repo=is-biz-mail-php&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="is-biz-mail-php" />
