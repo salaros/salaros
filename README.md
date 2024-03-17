@@ -5,8 +5,8 @@ I enjoy being challenged and engaging with projects that require me to work outs
 I'm a great problem-solver and critical thinker. 
 My greatest passion is open-source, so I strongly believe in knowledge sharing within communities and teams.
 
-- 🔭 I’m currently working on for my startups
-- 🌱 I’m currently studying Machine Learning, advanced Kafka
+- 🔭 I’m currently working for my startups
+- 🌱 I’m currently studying Machine Learning and orchestrators
 - 👯 I’m looking to collaborate on WakaTime addins
 - 🤔 I’m looking for help with maintaining my open-source projects
 - 💬 Ask me about C#, Azure, Docker, product life-time management
