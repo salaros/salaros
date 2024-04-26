@@ -19,15 +19,18 @@ My greatest passion is open-source, so I strongly believe in knowledge sharing w
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/ASP.NET%20Blazor-dotnet-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/ES6%20Vue.js-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Wordpress%20Yii2-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/ASP.NET%20Blazor-dotnet-informational?style=flat&logo=dotnet&logoColor=white&color=512bd4)
+![](https://img.shields.io/badge/ES6%20Vue.js-JavaScript-informational?style=flat&logo=javascript&logoColor=f7df1e&color=f7df1e)
+![](https://img.shields.io/badge/Wordpress%20Yii2-PHP-informational?style=flat&logo=php&logoColor=AEB2D5&color=AEB2D5)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f29111)
+![](https://img.shields.io/badge/DB-SQL%20Server-informational?style=flat&logo=microsoft&logoColor=white&color=512bd4)
+![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003C58)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=green)
 
 ![](https://img.shields.io/badge/Docker%20Compose-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Azure%20Google-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
