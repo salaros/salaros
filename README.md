@@ -14,8 +14,8 @@ My greatest passion is open-source, so I strongly believe in knowledge sharing w
 
 ## 📝 Blogs & Pages
 
-- [🚧 WIP] [My Blog: code & notes](https://blog.salaros.com/)
-- [my LinkedIn](https://www.linkedin.com/in/salaros/)
+- [🚧 WIP] [blog.salaros.com](https://blog.salaros.com/)
+- [LinkedIn](https://www.linkedin.com/in/salaros/)
 
 ## 🔧 Technologies & Tools
 
