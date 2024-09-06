@@ -1,4 +1,5 @@
-### Hi, I'm Salaros 👋 [![Yaroslav Zhmayev profile views](https://u8views.com/api/v1/github/profiles/675348/views/day-week-month-total-count.svg)](https://u8views.com/github/salaros)
+### Hi, I'm Salaros 👋
+[![Yaroslav Zhmayev profile views](https://u8views.com/api/v1/github/profiles/675348/views/day-week-month-total-count.svg)](https://u8views.com/github/salaros)
 
 Full-stack Software Developer, DevOps, Solution Architect. Working in IT since 2008.
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, learn new languages, frameworks and technologies. 
